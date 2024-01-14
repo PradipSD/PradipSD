@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PradipSD
-- 👀 I’m interested in Web Developmet and Java
-- 🌱 I’m currently pursuing an B.Tech degree
+- 👀 I’m interested in Web Developmet and Artificial Intelligence And Machine Learning.
+- 🌱 I’m currently pursuing an B.Tech in the field of AI&ML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me - pradipdound2002@gmail.com
 
 <!---
 PradipSD/PradipSD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
